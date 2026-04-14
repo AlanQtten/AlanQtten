@@ -5,11 +5,11 @@ Ever-Ascending 💪🏻
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 58 mins         █████████████▒░░░░░░░░░░░   53.12 %
-JavaScript   1 hr 9 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Markdown     1 hr 8 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-HTML         42 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Vue.js       39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+TypeScript   6 hrs 21 mins         ███████████▒░░░░░░░░░░░░░   45.08 %
+JavaScript   4 hrs 10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.63 %
+Markdown     1 hr 14 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+HTML         42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Vue.js       39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
