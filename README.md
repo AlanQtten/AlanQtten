@@ -5,11 +5,11 @@ Ever-Ascending 💪🏻
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   24 hrs 32 mins        ███████████████████░░░░░░   76.50 %
-Markdown     2 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-YAML         2 hrs 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Other        1 hr 23 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-JSON         34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+TypeScript   20 hrs 31 mins        ████████████████▒░░░░░░░░   64.73 %
+Markdown     3 hrs 5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+YAML         2 hrs 5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Other        1 hr 51 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+JSON         1 hr 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 
 <!--END_SECTION:waka-->
